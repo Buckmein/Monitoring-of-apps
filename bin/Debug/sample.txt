@@ -1,0 +1,3 @@
+Название_Процесса Количество
+notepad.exe 9000
+Calculator.exe 2
